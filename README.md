@@ -7,3 +7,4 @@
 - Hugues
 - Developpeur Web
 - Motion designer
+- Monteur vidéo
